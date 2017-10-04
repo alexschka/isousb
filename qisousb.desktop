@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Qisousb
+Comment=Copy an ISO to an USB key
+Comment[ca]=Còpia d'una ISO a una clau USB
+Comment[de]=Eine ISO-Datei auf einen USB-Stick kopieren
+Comment[el]=Αντιγράψτε κάθε ISO σε ένα ξεχωριστό USB δίσκο
+Comment[es]=Copia un ISO en una memoria USB
+Comment[fr]=Copie d'une ISO sur une clé USB
+Comment[it]=Copia una ISO in una chiavetta USB
+Comment[pl]=Kopiowanie ISO na dysku USB
+Comment[pt]=Copiar um ISO para um pendrive
+Comment[ro]=Copiați un ISO pe un stick USB
+Comment[tr]=Bir USB anahtarına ISO kopyalama
+Exec=gksu qisousb
+Icon=drive-removable-media-usb
+Type=Application
+Categories=System
