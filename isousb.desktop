@@ -10,6 +10,7 @@ Comment[it]=Copia una ISO in una chiavetta USB
 Comment[pl]=Kopiowanie ISO na dysku USB
 Comment[pt]=Copiar um ISO para um pendrive
 Comment[ro]=Copiați un ISO pe un stick USB
+Comment[ru]=Быстрое создание Live USB
 Comment[tr]=Bir USB anahtarına ISO kopyalama
 Exec=gksu isousb
 Icon=gnome-dev-removable-usb
